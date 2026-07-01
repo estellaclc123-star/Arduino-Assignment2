@@ -24,3 +24,6 @@ A simple Arduino project that combines a 7-segment display and a buzzer to creat
 * Buzzer: Pin **8**
 
 This project demonstrates the use of arrays, loops, functions, and digital output control to coordinate multiple hardware components.
+
+#  Author
+Fosu Estella - 2526405123
